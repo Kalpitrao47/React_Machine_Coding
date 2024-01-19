@@ -1,0 +1,5 @@
+install - npm install @reduxjs/toolkit, npm install react-redux
+Create a utils folder and inside that create a store.js
+Then create a slice in utils folder -appSlice.js
+Then Provide the store to our App. in App.js
+

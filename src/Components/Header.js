@@ -10,6 +10,7 @@ const Header = () => {
           <li><Link to="/about">About</Link></li>
           <li><Link to="/contact">Contact</Link></li>
           <li><Link to="/form">Form</Link></li>
+          <li><Link to="/fetch">Fetch</Link></li>
         </ul>
       </nav>
     </div>
